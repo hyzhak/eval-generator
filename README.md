@@ -13,3 +13,6 @@ it('should done', testGen(function *() {
 }));
 	
 ```
+
+## More
+[others Jasmine matchers and extensions](http://hyzhak.github.io/jasmine-extensions/)
